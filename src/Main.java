@@ -41,5 +41,7 @@ public class Main {
         zbiorKanalow.add("kanal1");
         zbiorKanalow.add("kanal2");
         instytucja.wyslij("Wiadomosc testowa dla zbioru kanalow", zbiorKanalow);
+
     }
+    
 }

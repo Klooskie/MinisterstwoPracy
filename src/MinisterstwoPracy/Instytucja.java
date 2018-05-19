@@ -48,4 +48,5 @@ public class Instytucja {
         Kanal kanal = this.kanaly.get(nazwaKanalu);
         kanal.odrejestruj(odbiorca);
     }
+
 }
