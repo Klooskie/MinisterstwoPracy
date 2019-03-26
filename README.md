@@ -1,4 +1,3 @@
 # MinisterstwoPracy
-Java mini project
 
-Small project created as a part of TO course
+Small Java project being a part of objective technologies course
